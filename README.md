@@ -1,1 +1,1 @@
-# RED-TETRIS project
+# red-tetris
